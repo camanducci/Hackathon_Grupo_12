@@ -1,0 +1,8 @@
+/* Coloque aqui seu codigo CSS */
+.parado{
+	background-image:url("/VoiceAssistant/resources/images/mic.gif");
+}
+
+.ouvindo{
+	background-image:url("/VoiceAssistant/resources/images/mic-animate.gif");
+}
